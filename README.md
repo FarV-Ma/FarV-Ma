@@ -1,6 +1,8 @@
 ## Hi there 👋
 Simply lovely!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarV-Ma&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FarV-Ma/FarV-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
